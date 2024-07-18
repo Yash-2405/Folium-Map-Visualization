@@ -42,3 +42,7 @@ Drawing different shapes like circles and polygons.
 Incorporating geojson data to visualize geographical boundaries.
 
 ![image](https://github.com/user-attachments/assets/53542edc-2623-46d0-ace2-33428e0e398d)
+
+# Usage
+
+Follow the examples provided in the notebook to understand how to create and customize maps using Folium. The notebook includes code snippets and explanations to help you get started with interactive map visualizations.
